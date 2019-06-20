@@ -1,0 +1,23 @@
+.photo{
+    background-image: url("babies1.jpg");
+    height: 200px;      
+    width: 200px;
+
+}
+
+ul li{
+    display: inline;
+}
+
+#name-id{
+    float: left;
+}
+
+#navigation{
+    float: right;
+}
+
+header {
+   padding-bottom: 100px;
+}
+
